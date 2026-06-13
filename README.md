@@ -1,29 +1,29 @@
-# Hi there, I'm Moustafa Masoud 👋
-### Chief Technology & Growth Officer (CTGO) & Full-Stack Architect
+# Moustafa Masoud
+### Chief Technology & Growth Officer (CTGO) | Enterprise Systems Architect
 
-I bridge the gap between complex software engineering and high-growth business strategies. Utilizing **First Principles Thinking**, I architect scalable e-commerce solutions, enterprise multi-tenant ERP systems, and bulletproof automation workflows tailored for the MENA & GCC markets.
-
----
-
-## 🚀 Core Expertise & Tech Stack
-
-- **Mobile Development:** Flutter & Dart (Clean Architecture, Strong Typing, Custom SDKs)
-- **E-commerce & Web:** Shopify (Liquid), WooCommerce, WordPress
-- **Automation & Integrations:** n8n, Shopify Admin API, Webhooks, Custom ERP Integrations
-- **Local Ecosystems:** Deep experience with GCC/MENA payment gateways (Tabby, Tamara, Fawry) and regional logistics.
+Technical leader with over 8 years of experience engineering high-growth business solutions and multi-tenant ERP architectures across the MENA and GCC markets. I specialize in bridging the gap between clean code execution and strategic business growth using First Principles.
 
 ---
 
-## 🛠️ Engineering Philosophy: Scalability vs. Speed
+## 🚀 Core Tech Stack
 
-Every solution I build is evaluated through a strict trade-off lens:
-* **Speed of Delivery:** Leveraged for MVPs and quick market validation using robust automation (n8n) and reliable tech stacks.
-* **Long-Term Scalability:** Secured via Clean Code principles, rigorous error handling, and data integrity safeguards to eliminate technical debt.
+- **Backend Engineering:** Python (FastAPI, Django), Clean Architecture, REST/GraphQL APIs, Strict Type Hinting.
+- **Data & Infrastructure:** PostgreSQL, Redis, Docker containerization.
+- **E-commerce & Automation:** Shopify Admin API (GraphQL/REST), n8n workflow design, custom webhook processors, and secure ERP integrations.
+- **Regional Integrations:** Hands-on experience deploying MENA/GCC localized logistics workflows and payment gateways (Tabby, Tamara, Fawry).
 
 ---
 
-## 📊 Connect With Me
+## 🛠️ Engineering Trade-offs: Speed vs. Scalability
 
-- 💼 **LinkedIn:** [linkedin.com/in/mustafaalimasoud](https://www.linkedin.com/in/mustafaalimasoud)
-- 📧 **Email:** mustafaalimasoud@gmail.com
-- 📍 **Availability:** Open to Global & GCC Remote Opportunities
+I make architectural decisions based on business context:
+* **Speed of Delivery:** I leverage Python's ecosystem, lightweight frameworks (FastAPI), and n8n pipelines to rapidly build out MVPs and validate core market logic.
+* **Long-Term Scalability:** I ensure zero technical debt on production-ready products by enforcing strict Clean Code practices, asynchronous exception handling, and robust data integrity checks.
+
+---
+
+## 📊 Contact & Collaboration
+
+- **LinkedIn:** [/in/mustafaalimasoud](https://www.linkedin.com/in/mustafaalimasoud)
+- **Email:** mustafaalimasoud@gmail.com
+- **Availability:** Open to Global & GCC Remote Opportunities
